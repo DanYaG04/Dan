@@ -12,3 +12,14 @@ Learning to use git
 -**git add**: add files to the staging area
 -**git commit**: save file changes
 -**git push**: show changes in GitHub
+
+ -**git clone**: download a repository to the local machine
+```bash 
+git clone <url> 
+``` 
+-**git status**: check current situation
+```bash
+get status
+```
+
+-**git add**: add files to the staging area before commiting
