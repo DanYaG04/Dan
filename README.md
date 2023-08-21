@@ -6,6 +6,8 @@ Learning to use git
 -**ls**: list the contents of a directory
 -**cd**: change to another directory
 -**pwd**: print the working directory
+-**mkdir**: make new directory
+-**nano**: edit a document
 ## Git commands
 -**git status**: current station
 -**git clone**: download a repository to the local section
