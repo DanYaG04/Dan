@@ -23,3 +23,5 @@ get status
 ```
 
 -**git add**: add files to the staging area before commiting
+
+![Cat image](download.jpg)
